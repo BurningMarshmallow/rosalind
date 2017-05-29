@@ -1,0 +1,9 @@
+0.219
+--------
+A	B	C	D	E
+--------
+--D-BDEAA
+A-BBACEED
+CCDBA--AD
+EC-BACEAA
+AC-BECED-
